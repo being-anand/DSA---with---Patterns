@@ -1,2 +1,3 @@
 Number Theory,
-Binary Search
+Binary Search,
+Sorting
