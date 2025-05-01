@@ -1,2 +1,2 @@
-Number Theory
+Number Theory,
 Binary Search
